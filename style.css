@@ -1,0 +1,18 @@
+h1{
+    font-variant: small-caps;
+    font-size: 45px;
+}
+body{
+    background: linear-gradient(#2f93eb 0%, #9a2feb 100%);
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
+img{
+    height: 330px; 
+    width: 500px;
+}
+p{
+    font-size: 22px;
+}
